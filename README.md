@@ -1,5 +1,6 @@
 # Инструкция по запуску
-```
-python3 solution1.py
-python3 solution2.py
-```
+- `solutionXSS.py` используется для XSS-инъекций, `solutionSQL.py - для SQL-инъекций
+  ```
+  python3 solutionXSS.py
+  python3 solutionSQL.py
+  ```
